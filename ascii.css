@@ -1,0 +1,35 @@
+/*
+	This file provides all styling for ascii.html.
+*/
+
+body {
+	background-color: #CCCCFF;
+	font-size: 14pt;
+	font-weight: bold;
+	font-family: sans-serif;
+	text-align: center;
+}
+
+h1 {
+	font-size: 32pt;
+	font-weight: bold;
+	margin: 0pt;
+}
+
+textarea {
+	width: 90%;
+	height: 400px;
+	font-size: 12pt;
+	font-weight: bold;
+	font-family: monospace;
+	margin-left: 5%;
+	margin-right: 5%;
+}
+
+fieldset {
+	border: 5px black solid;
+	display: inline;
+	vertical-align: top;
+	border-radius: 10px;
+	text-align: left;
+}
